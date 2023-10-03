@@ -116,7 +116,7 @@ p{
 .grid ul li{
     /* Set margin, line-spacing, list styling  */
     line-height: 1;
-    list-style: square outside url(images/sketchbook.png);
+    list-style: square outside url(/images/sketchbook.png);
     margin-left: 40px;
     margin-bottom: 10px;
 }
