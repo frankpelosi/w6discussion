@@ -24,7 +24,7 @@ nav a{
 
 a:visited{
     /* Set color */
-    color:black;
+    color: #000000;
 }
 
 nav a.current{
